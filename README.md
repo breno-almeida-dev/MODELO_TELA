@@ -16,7 +16,7 @@ Este projeto demonstra o uso de layouts e containers básicos do Swing e AWT par
 
 
 ## Janela de saída do código:
-![Imagem do diagrama do projeto](https://github.com/breno-almeida-dev/MODELO_TELA/blob/master/Captura de tela 2024-10-30 204655.png)  
+![Imagem do diagrama do projeto](https://github.com/breno-almeida-dev/MODELO_TELA/blob/master/Captura%20de%20tela%202024-10-30%20204655.png)  
   
 
 ## 📋 Pré-requisitos
